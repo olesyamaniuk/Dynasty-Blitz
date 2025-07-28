@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://honeyroyalquest.com/sitemap.xml
+Sitemap: https://joydynastyblitz.com/sitemap.xml
